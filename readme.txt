@@ -4,4 +4,4 @@ Git is a necessary tool i think.
 Git tracks changes of files.
 create a new branch dev.
 Creating a new branch is quick and simple.
-
+add merge
